@@ -8,7 +8,7 @@ A simple and beginner-friendly web app that helps users compare the Old vs New T
 
 A quick walkthrough of how the app works:
 
-👉 [Watch on LinkedIn](https://www.linkedin.com/posts/your-video-link)
+👉 [Watch on LinkedIn][(https://www.linkedin.com/posts/your-video-link)](https://www.linkedin.com/posts/biya-rocky-dataanalyst_buildinpublic-ai-productthinking-ugcPost-7457018336724422656-ce_w?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeEowYByIUu1ymdXneEMbHii85a1lJyZSo)
 
 ---
 
